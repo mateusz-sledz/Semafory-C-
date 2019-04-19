@@ -1,1 +1,1 @@
-# Semafory-C-
+# Program w ramach przedmiotu systemy operacyjne
